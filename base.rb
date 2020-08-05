@@ -1,0 +1,5 @@
+require 'mechanize'
+require 'date'
+require 'pry'
+require_relative 'scraper'
+require_relative 'item'
